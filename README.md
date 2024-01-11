@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋 my name is Paul Davis
+- 🎮 I'm a game developer seeking Summer 2024 internship roles in game development.
+- 📖 I'm a junior at the University of Massachusetts Amherst studying Computer Science and Math.
+- 📬 Contact me at my [LinkedIn](https://www.linkedin.com/in/paul-c-davis/) or by the email on my profile!
+
+I'm also open to other roles in games-adjacent fields! I have many transferrable skills from my work in the Unity, Unreal, and Godot Engines.
 
 <!--
 **21pdavis/21pdavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
