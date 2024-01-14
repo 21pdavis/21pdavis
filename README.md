@@ -1,5 +1,5 @@
 ### Hi 👋 my name is Paul Davis
-- 🎮 I'm a game developer seeking Summer 2024 internship roles in game development.
+- 🎮 I'm a game developer seeking Summer 2024 internship roles in the games industry.
 - 📖 I'm a junior at the University of Massachusetts Amherst studying Computer Science and Math.
 - 📬 Contact me at my [LinkedIn](https://www.linkedin.com/in/paul-c-davis/) or by the email on my profile!
 
