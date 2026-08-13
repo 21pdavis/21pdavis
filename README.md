@@ -1,7 +1,7 @@
 ### Hi 👋 my name is Paul Davis
 - 🎮 I'm a Software Engineer at Collette Travel.
 - 📖 I'm an alum of the University of Massachusetts Amherst with my B.S. in Computer Science and Mathematics.
-- 📋 I was Co-President of a tech consulting club at UMass called BUILD UMass and managed to get 3 internships under my belt over my 3.5 years at school!
+- 📋 I was Co-President of a tech consulting club at UMass called BUILD UMass and had 3 internships over my 3.5 years at school.
 - 📬 Contact me at my [LinkedIn](https://www.linkedin.com/in/paul-c-davis/), at paulcdavis135@gmail.com, or at 978-846-3698!
 
 I'm particularly interested in roles full stack web development, backend development, or tools development of any kind. I love making software that real people will use and benefit from, whether that's a game or a really useful tool.
